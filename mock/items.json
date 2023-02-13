@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1ec58676-898f-4fa5-9fcf-1f386dda4724",
+    "title": "Pokemon Azul",
+    "price": 9.99,
+    "image": "pokemon-azul.jpg"
+  },
+  {
+    "id": "420bad3c-974e-4749-9e35-7ea303320e93",
+    "title": "Pokemon Rojo",
+    "price": 9.99,
+    "image": "pokemon-rojo.jpg"
+  },
+  {
+    "id": "bb5c95a2-f1d3-44ad-bafd-3ebd7bdbcaa9",
+    "title": "Pokemon Verde",
+    "price": 9.99,
+    "image": "pokemon-verde.jpg"
+  },
+  {
+    "id": "bb5c95a2-f1d3-44ad-bafd-3ebd7bdbcaa9",
+    "title": "Pokemon Verde",
+    "price": 9.99,
+    "image": "pokemon-verde.jpg"
+  },
+  {
+    "id": "bb5c95a2-f1d3-44ad-bafd-3ebd7bdbcaa9",
+    "title": "Pokemon Verde",
+    "price": 9.99,
+    "image": "pokemon-verde.jpg"
+  },
+  {
+    "id": "bb5c95a2-f1d3-44ad-bafd-3ebd7bdbcaa9",
+    "title": "Pokemon Verde",
+    "price": 9.99,
+    "image": "pokemon-verde.jpg"
+  }
+
+]
